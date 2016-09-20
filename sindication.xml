@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://webmastertool.naver.com">
+  <id>http://yin.recyclerefuse.xyz</id>
+  <title><![CDATA[ 용인철거 ]]></title>
+  <author>
+    <name>용인철거</name>
+  </author>
+
+  <updated>2016-09-20T16:19:27+09:00</updated>
+  <link rel="site" href="http://yin.recyclerefuse.xyz" />
+
+  
+  <entry>
+    <id>http://yin.recyclerefuse.xyz/posts/2016/09/19/post.html</id>
+    <title><![CDATA[ Post ]]></title>
+    <author>
+      <name>용인철거</name>
+    </author>
+    <updated>2016-09-19T10:00:00+09:00</updated>
+    <published>2016-09-19T10:00:00+09:00</published>
+    <link rel="via" href="http://yin.recyclerefuse.xyz/posts/2016/09/19/post.html" />
+    <content type="html"><![CDATA[  
+ ]]></content>
+  </entry>
+  
+</feed>
